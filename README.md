@@ -8,7 +8,7 @@ This is the first of a two part tutorial. After completing this one, you can lea
 
 Data visualization can help you translate data and metrics into interactive charts, graphs and other visual reports. It also provides functions that allow you to view structured data and query data via an SQL editor. Moreover, through personalized settings, data virtualization can help you view and analyze information and data--from multiple perspectives--to make data decisions and applications. The data visualization service is extended across IBM Watson Studio tools, including IBM SPSS Modeler and IBM Data Refinery (for both IBM Cloud and IBM Cloud Pak for Data).
 
-Link to the Tutorial - ibm.biz/DataVizLab <br/>
+Link to the Tutorial - https://ibm.biz/DataVizLab <br/>
 IBM Cloud Sign-up: https://ibm.biz/DataViz <br/>
 Event recording: https://www.crowdcast.io/e/data-visualization <br/>
 Slides: https://mridulrb.github.io/Visualising-Data-to-Generate-Interactive-Charts-Graphs-to-Discover-Insights/#/ <br/>
