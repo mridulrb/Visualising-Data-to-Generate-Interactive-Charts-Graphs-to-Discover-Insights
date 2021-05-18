@@ -73,7 +73,7 @@ https://www.linkedin.com/in/fawazsiddiqi/
 ☁ Register for a free IBM Cloud Account: https://ibm.biz/DataViz
 
 🍉 Register for the live stream and replay on Crowdcast: <br/>
-https://www.crowdcast.io/e/data-visualization
+- https://www.crowdcast.io/e/data-visualization
 
 🎬 Streaming <br />
 - YouTube: https://youtu.be/tYp0kScssIg
