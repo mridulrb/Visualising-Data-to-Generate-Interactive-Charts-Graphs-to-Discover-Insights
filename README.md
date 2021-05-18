@@ -14,8 +14,8 @@ Data visualization can help you translate data and metrics into interactive char
 - Slides: https://mridulrb.github.io/Visualising-Data-to-Generate-Interactive-Charts-Graphs-to-Discover-Insights/#/ <br/>
 - Survey: https://ibm.biz/Bdfyei
 - Streaming:
-  i.  YouTube: https://youtu.be/tYp0kScssIg
-  ii. Twitch: https://twitch.tv/mridulrb
+  1.  YouTube: https://youtu.be/tYp0kScssIg
+  1. Twitch: https://twitch.tv/mridulrb
 
 ![Basic structure image](images/data_visualization_basic_structure.png)
 **Figure 1: Data visualization basic structure**
