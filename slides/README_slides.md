@@ -49,12 +49,12 @@ Analyze structured and unstructured data to extract knowledge and insights relat
 
 In this workshop, you will learn how to create elegant, interactive dashboards and infographics on IBM® Watson™ Studio tools. These dashboards are easy to share to serve your analytic and reporting needs.
 
-🎓 What will you learn? <br />
+🎓 What will you learn? 
 - What are interactive dashboards
 - How to explore Data Analysis
 - How to visualize data
 
-👩‍💻 Who should attend? <br />
+👩‍💻 Who should attend? 
 - Software developers
 - Data and AI enthusiasts
 - Beginner developers
@@ -63,7 +63,7 @@ In this workshop, you will learn how to create elegant, interactive dashboards a
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
-🎙️ Speakers <br />
+🎙️ Speakers 
 - Mridul Bhandari, Developer Advocate, IBM UAE
 https://www.linkedin.com/in/mridul-bhandari
 - Fawaz Siddiqi, Developer Advocate, IBM UAE
@@ -72,14 +72,14 @@ https://www.linkedin.com/in/fawazsiddiqi/
 🎈 Prerequisites <br />
 ☁ Register for a free IBM Cloud Account: https://ibm.biz/DataViz
 
-🍉 Register for the live stream and replay on Crowdcast: <br/>
+🍉 Register for the live stream and replay on Crowdcast: 
 - https://www.crowdcast.io/e/data-visualization
 
-🎬 Streaming <br />
+🎬 Streaming 
 - YouTube: https://youtu.be/tYp0kScssIg
 - Twitch: https://twitch.tv/mridulrb
 
-👩‍💻 Resources <br />
+👩‍💻 Resources 
 - GitHub Repository - https://github.com/mridulrb/Visualising-Data-to-Generate-Interactive-Charts-Graphs-to-Discover-Insights
 - Workshop Slides - https://mridulrb.github.io/Visualising-Data-to-Generate-Interactive-Charts-Graphs-to-Discover-Insights/#/
 - Survey - https://ibm.biz/Bdfyei
