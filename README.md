@@ -13,6 +13,9 @@ IBM Cloud Sign-up: https://ibm.biz/DataViz <br/>
 Event recording: https://www.crowdcast.io/e/data-visualization <br/>
 Slides: https://mridulrb.github.io/Visualising-Data-to-Generate-Interactive-Charts-Graphs-to-Discover-Insights/#/ <br/>
 Survey: https://ibm.biz/Bdfyei
+Streaming:
+- YouTube: https://youtu.be/tYp0kScssIg
+- Twitch: https://twitch.tv/mridulrb
 
 ![Basic structure image](images/data_visualization_basic_structure.png)
 **Figure 1: Data visualization basic structure**
