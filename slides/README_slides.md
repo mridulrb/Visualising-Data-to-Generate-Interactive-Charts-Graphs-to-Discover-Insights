@@ -171,6 +171,10 @@ https://www.linkedin.com/in/fawazsiddiqi/
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
+![center](https://github.com/mridulrb/Visualising-Data-to-Generate-Interactive-Charts-Graphs-to-Discover-Insights/blob/main/images/slide_images/Slide22.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
